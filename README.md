@@ -1,0 +1,1 @@
+# serverless-nestjs-openapi-test-app
