@@ -1,0 +1,2 @@
+
+openapi-generator-cli generate -i http://nestjs:3001/api-json --generator-name typescript-fetch -o /local/out --additional-properties=useSingleRequestParameter=true,withSeparateModelsAndApi=true,withInterfaces=true
